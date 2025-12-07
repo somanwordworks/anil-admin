@@ -1,0 +1,1 @@
+Put your Neon DATABASE_URL in .env.local as DATABASE_URL and run migrations to create schedule_events table.
